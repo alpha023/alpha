@@ -1,0 +1,70 @@
+body{
+  background-color: #A7D2CB;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  border:solid 5px red;
+}
+
+.computer{
+  height:200px;
+  
+}
+
+h1{
+  margin-top:0;
+  width:20%;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+div{
+  background-color:#B9FFF8;
+
+
+}
+
+.topCloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+
+
+
+}
+
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+  bottom:300px;
+
+}
+
+.top-container{
+  padding-top:100px;
+
+}
+
+.profilePic{
+  width:200px;
+  border-radius: 100%;
+  border:solid 5px;
+  border-color: cyan;
+}
+
+.profilePic:hover{
+  border-color: #FFD8A9;
+  border:solid 5px;
+}
+
+
+/*  --------------CLASS SELECTOR---------------------------*/
